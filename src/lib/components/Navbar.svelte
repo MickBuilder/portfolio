@@ -1,12 +1,13 @@
 <script lang="ts">
   import { page } from "$app/stores";
+  import { base } from '$app/paths';
 
   let navs: { link: string, name: string }[] = [
-    { link: "/", name: "A Propos" },
-    { link: "/resume", name: "Parcours", },
-    { link: "/skills", name: "Compétences", },
-    { link: "/portfolio", name: "Projets", },
-    { link: "/contact", name: "Contact", },
+    { link: `${base}/`, name: "A Propos" },
+    { link: `${base}/resume`, name: "Parcours", },
+    { link: `${base}/skills`, name: "Compétences", },
+    { link: `${base}/portfolio`, name: "Projets", },
+    { link: `${base}/contact`, name: "Contact", },
   ];
 </script>
 
