@@ -16,7 +16,7 @@ const projects = [
         image: mobistoryPic,
         categories: ["Flutter", "Sqlite", "Git"],
         title: "Mobistory",
-        description: "Application mobile d'exploration des évènements historiques à proximité de l'utilisateur. Réalisé avec le framework Flutter."
+        description: "Application mobile d'exploration des évènements historiques à proximité de l'utilisateur. Réalisé avec Flutter."
     },
     {
         link: "https://github.com/Mikdaam/Galaxy_Simulation",

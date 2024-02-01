@@ -3,7 +3,7 @@ import type { PageLoad } from "./$types";
 const resume = {
     formations: [
         {
-            title: 'Diplome d\'Ingénieur Informatique | ESIEE Paris',
+            title: 'Diplôme d\'Ingénieur Informatique | ESIEE Paris',
             date: '2021 — 2024',
             details: '• Informatique, design, architecture et développement - Option Réseaux <br />• Echange universitaire au Québec pendant un trimestre <br />• Last Project : Projet de fin d’étude',
         },
