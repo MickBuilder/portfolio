@@ -16,9 +16,8 @@
     <p>
       Mon parcours académique m'a permis de développer une expertise approfondie
       en Java, tout en cultivant une approche polyvalente du développement en
-      explorant des technologies variées telles que Svelte, Node.js, Flutter,
-      Jetpack Compose, Java et Golang. Convaincu que la curiosité et
-      l'adaptabilité sont essentielles dans un domaine en constante évolution,
+      explorant des technologies variées telles que Golang, Javascript [langages] et Svelte, Flutter[frameworks].
+      Convaincu que la curiosité et l'adaptabilité sont essentielles dans un domaine en constante évolution,
       je suis prêt à relever de nouveaux défis.
     </p>
   </section>
